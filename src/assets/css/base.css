@@ -1,0 +1,19 @@
+:root {
+    --font-size-title: 20px;
+    --font-size-message: 15px;
+    --font-weight-title: 500;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    user-select: none;
+    width: 100vw;
+
+}
+
+a {
+    text-decoration:none;
+}
